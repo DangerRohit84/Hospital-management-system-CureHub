@@ -1,0 +1,27 @@
+# Build outputs
+target/
+**/dist/
+**/build/
+
+# Dependencies
+**/node_modules/
+
+# Java
+*.class
+*.jar
+*.war
+*.log
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Env / secrets
+.env
+.env.*
+!.env.example
