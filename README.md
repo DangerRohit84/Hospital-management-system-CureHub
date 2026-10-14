@@ -1,4 +1,4 @@
-# CureHub (Project 6)
+# CureHub
 
 > One dashboard and one database for all government hospitals. One citizen, one record, every hospital.
 
